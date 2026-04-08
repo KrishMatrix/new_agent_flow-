@@ -1,0 +1,21 @@
+sku_id,product_name,category,price,supplier,lead_time_days
+SKU001,Blue Running Sneakers,Footwear,89.99,SportMax Ltd,5
+SKU002,Red Classic T-Shirt,Apparel,24.99,TextileCo,3
+SKU003,Black Yoga Pants,Apparel,49.99,TextileCo,3
+SKU004,White Canvas Backpack,Accessories,39.99,BagWorld Inc,7
+SKU005,Green Hiking Boots,Footwear,129.99,SportMax Ltd,5
+SKU006,Navy Polo Shirt,Apparel,34.99,TextileCo,3
+SKU007,Grey Jogger Shorts,Apparel,29.99,TextileCo,3
+SKU008,Brown Leather Belt,Accessories,44.99,LeatherCraft,4
+SKU009,Pink Sport Bra,Apparel,32.99,TextileCo,3
+SKU010,Orange Windbreaker,Outerwear,74.99,OutdoorGear Co,6
+SKU011,Teal Swim Trunks,Apparel,27.99,TextileCo,3
+SKU012,Silver Watch Band,Accessories,19.99,TechAccessories,8
+SKU013,Charcoal Hoodie,Outerwear,59.99,TextileCo,3
+SKU014,Burgundy Beanie,Accessories,14.99,WoolWorks,4
+SKU015,Lime Training Gloves,Accessories,22.99,SportMax Ltd,5
+SKU016,Cobalt Rain Jacket,Outerwear,99.99,OutdoorGear Co,6
+SKU017,Ivory Linen Pants,Apparel,54.99,TextileCo,3
+SKU018,Coral Tank Top,Apparel,19.99,TextileCo,3
+SKU019,Midnight Running Socks (3-pack),Footwear,12.99,SportMax Ltd,5
+SKU020,Sage Duffel Bag,Accessories,64.99,BagWorld Inc,7
